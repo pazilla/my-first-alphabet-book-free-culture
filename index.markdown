@@ -289,3 +289,9 @@ zebra
 <a href="//www.flickr.com/photos/sara_joachim/2180704157" title="DSC_1426 by Joachim Huber, on Flickr">Flickr:Joachim Huber</a>
 </div>
 </div>
+<div>
+If this is useful, please donate. If it continues to be useful, please continue to donate.
+</div>
+<div>
+If you would enjoy changes here or have a question, please <a href="//github.com/pazilla/my-first-alphabet-book-free-culture/issues">create an issue</a> or text 1(919)480-8089.
+</div>
