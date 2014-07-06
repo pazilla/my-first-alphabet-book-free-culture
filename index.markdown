@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My First Alphabet Book
+title: my first alphabet book
 ---
 <div id="p1" class="page">
 <div class="picture-book-page-image">
