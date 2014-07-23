@@ -9,6 +9,19 @@
 .picture-book-page-image img {
   width: 100vw;
 }
+.picture-book-letter {
+  font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-weight: normal;
+  color: #ff00ff;
+  font-style: normal;
+  position: absolute;
+  font-size: 40vw;
+  top: -10vw;
+  left: 60%;
+}
+.picture-book-letter-left {
+  left: 25%;
+}
 .picture-book-page-text {
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;
