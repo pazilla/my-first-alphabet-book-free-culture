@@ -22,6 +22,9 @@
 .picture-book-letter-left {
   left: 25%;
 }
+.picture-book-letter-mid {
+  left: 45%;
+}
 .picture-book-page-text {
   font-family: 'Didact Gothic', 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: normal;

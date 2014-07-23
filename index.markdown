@@ -20,7 +20,7 @@ ant
 <div class="picture-book-page-image">
 <img src="images/1280px-Bumble_Bee_in_flight.jpg" alt="Bumble Bee in flight"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 b
 </div>
 <div class="picture-book-page-text">
@@ -48,7 +48,7 @@ cat
 <div class="picture-book-page-image">
 <img src="images/1280px-Labrador_at_age_10_months.jpg" alt="yellow Labrador retriever puppy at age 10 months"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 d
 </div>
 <div class="picture-book-page-text">
@@ -76,7 +76,7 @@ elephant
 <div class="picture-book-page-image">
 <img src="images/1280px-Caerulea3_crop.jpg" alt="Australian Green Tree Frog"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 f
 </div>
 <div class="picture-book-page-text">
@@ -90,7 +90,7 @@ frog
 <div class="picture-book-page-image">
 <img src="images/1280px-Macrotona_australis_laying_eggs.jpg" alt="Common Macrotona (Macrotona australis) laying eggs"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 g
 </div>
 <div class="picture-book-page-text">
@@ -104,7 +104,7 @@ grasshopper
 <div class="picture-book-page-image">
 <img src="images/1280px-American_quarter_horse.jpg" alt="American quarter horse"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 h
 </div>
 <div class="picture-book-page-text">
@@ -132,7 +132,7 @@ iguana
 <div class="picture-book-page-image">
 <img src="images/1280px-Mike_Johnston_-_Jelly_Fish_(by).jpg" alt="Jelly Fish"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 j
 </div>
 <div class="picture-book-page-text">
@@ -146,7 +146,7 @@ jellyfish
 <div class="picture-book-page-image">
 <img src="images/1280px-Kangaroo_Australia_01_11_2008_-_retouch2.jpg" alt="Macropus rufus, female in conservation reserve, Blue Mountains, Australia"/>
 </div>
-<div class="picture-book-letter picture-book-letter-left">
+<div class="picture-book-letter picture-book-letter-mid">
 k
 </div>
 <div class="picture-book-page-text">
@@ -244,7 +244,7 @@ quail
 <div class="picture-book-page-image">
 <img src="images/Procyon_lotor_(Common_raccoon).jpg" alt="Common raccoon, Birch State Park, Fort Lauderdale Florida"/>
 </div>
-<div class="picture-book-letter picture-book-letter-left">
+<div class="picture-book-letter picture-book-letter-mid">
 r
 </div>
 <div class="picture-book-page-text">
@@ -287,7 +287,7 @@ turtle
 <div class="picture-book-page-image">
 <img src="images/Riccio_Melone_a_Capo_Caccia_adventurediving.it.jpg" alt="sea urchin"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 u
 </div>
 <div class="picture-book-page-text">
@@ -357,7 +357,7 @@ Cropped mod, of <a title="By Pongratz (Own work) [GFDL (//www.gnu.org/copyleft/f
 <div class="picture-book-page-image">
 <img src="images/1280px-Equus_quagga.jpg" alt="zebra"/>
 </div>
-<div class="picture-book-letter">
+<div class="picture-book-letter picture-book-letter-mid">
 z
 </div>
 <div class="picture-book-page-text">
